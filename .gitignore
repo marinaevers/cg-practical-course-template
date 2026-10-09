@@ -1,0 +1,7 @@
+.vs/*
+.vscode/*
+.idea/
+out/*
+build/
+cmake-build-*/
+shader_preprocessor_logs/
