@@ -2,6 +2,6 @@
 .vscode/*
 .idea/
 out/*
-build/
+/build/
 cmake-build-*/
 shader_preprocessor_logs/
