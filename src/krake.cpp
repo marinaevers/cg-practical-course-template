@@ -12,8 +12,6 @@
 namespace
 {
     // Dimensions of the ride (all lengths in scene units, radii as in the task description).
-    constexpr float plaza_radius = 30.0f;
-
     constexpr float podest_bottom_radius = 7.0f;
     constexpr float podest_top_radius = 6.5f;
     constexpr float podest_height = 0.4f;
